@@ -24,3 +24,9 @@ O objetivo final do app é o usuario apos logado conseguir ver a previsao do tem
 # Diferencial
 
 - Conseguir fazer um fluxo de deploy continuo utilizando o GitHub Actions
+
+# Termine, e agora?
+
+Envie um e-mail para arthur@fanhub.com.br com o link do seu repositorio. Tambem manda uma disponibildiade para batermos um papo via Google Meet (40 minutos da sua agenda) não esqueca de colocar o link do seu linkedin.
+
+Boa sorte.
